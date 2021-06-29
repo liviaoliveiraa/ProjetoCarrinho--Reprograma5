@@ -1,0 +1,18 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "Carrinho de compras",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "keywords": [],
+  "author": "Livia Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

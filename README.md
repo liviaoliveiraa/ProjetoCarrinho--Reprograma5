@@ -44,8 +44,6 @@ Ps: Parece fácil, né? Mas não foi!E confesso que esse projeto é o meu favori
   - o valor total em Reais
   - a data da compra
 
-## Regras
-
 - Validação de produto existente pelo `id`. Caso não encontre o produto, apresentar uma mensagem de erro e solicitar novamente um `id` válido.
 
 - Validação de `quantidade` para não permitir valores negativos.
@@ -56,7 +54,6 @@ Ps: Parece fácil, né? Mas não foi!E confesso que esse projeto é o meu favori
   - a lista de produtos
   - o valor de cupom
   
-
 - A classe `Pedido` deve conter os métodos:
   - que calcule a quantidade de itens totais no carrinho
   - que calcule o valor subtotal (quantidade de itens multiplicado pelo preço unitário)
@@ -70,7 +67,6 @@ Ps: Parece fácil, né? Mas não foi!E confesso que esse projeto é o meu favori
 Infelizmente eu não consegui colocar o vídeo aqui :frowning_face:   mas segue o link do resultado no [Youtube](https://www.youtube.com/embed/9WxFaX0tYN0)</p>
 
 
-
 ## Tecnologias
 - [VsCode](https://code.visualstudio.com/download)
 - [Node.js](https://nodejs.org/en/download/)
@@ -78,7 +74,6 @@ Infelizmente eu não consegui colocar o vídeo aqui :frowning_face:   mas segue 
 ## Pré-requisitos
 
     npm i nodemoon
-
 
 ## Autora
 Made with :purple_heart: by [Lívia Oliveira](https://www.linkedin.com/in/l%C3%ADvia-de-oliveira-almeida/)

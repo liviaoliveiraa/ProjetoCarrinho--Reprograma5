@@ -18,7 +18,7 @@
 ## Objetivo
 <p>O objetivo desse projeto foi consolidadar todo o aprendizado que tivermos nessas 4 semanas de curso através da resolução do seguinte desafio:</p>
 <p>
-Criar um carrinho de compra!
+  <b>Criar um carrinho de compra!</b>
 
 Ps: Parece fácil, né? Mas não foi!E confesso que esse projeto é o meu favorito dentre tantos que há no meu repositório.
 </p>

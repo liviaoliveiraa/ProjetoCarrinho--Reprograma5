@@ -65,9 +65,10 @@ Ps: Parece fácil, né? Mas não foi!E confesso que esse projeto é o meu favori
 
 ## Resultado
 
-<p>Nada melhor que mostrar o resultado com um vídeo, o que acham?</p>
+<p>Nada melhor que mostrar o resultado com um vídeo, o que acham?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9WxFaX0tYN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Infelizmente eu não consegui colocar o vídeo aqui :frowning_face:   mas segue o link do resultado no [Youtube](https://www.youtube.com/embed/9WxFaX0tYN0)</p>
+
 
 
 ## Tecnologias
